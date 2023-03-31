@@ -1,6 +1,6 @@
 Name:		texlive-jacow
 Version:	63060
-Release:	1
+Release:	2
 Summary:	A class for submissions to the proceedings of conferences on JACoW.org
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/jacow
