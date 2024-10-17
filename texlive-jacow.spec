@@ -3,7 +3,7 @@ Version:	63060
 Release:	2
 Summary:	A class for submissions to the proceedings of conferences on JACoW.org
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/jacow
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/jacow
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/jacow.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/jacow.doc.r%{version}.tar.xz
